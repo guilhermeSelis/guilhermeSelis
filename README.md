@@ -2,9 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Sélis, tenho 22 anos e sou natural de São Paulo (Brasil). Iniciei minha jornada com programação com um curso técnico de informática na escola técnica de São Paulo, onde aprendi muito sobre hardware e lógica de programação. Posteriormente me aprofundei em cursos e hoje trabalho em uma exchange de criptomoedas brasileira e atuo como tech lead.
-
-Meu dia a dia gira em torno de programar, com as principais stacks sendo react-native, Next, expo, Laravel, e nodeJs. Além disso, meu trabalho também é para desenvolvimento da equipe de programadores, com acompanhamento, feedbacks a aprimoração de skills de cada um deles
+Me chamo Guilherme Sélis, tenho 22 anos e sou natural de São Paulo (Brasil). Iniciei minha jornada com programação com um curso técnico de informática na escola técnica de São Paulo, onde aprendi muito sobre hardware e lógica de programação. Posteriormente me aprofundei em cursos especializados e coletei diversas experiências profissionais. Hoje, com 6 anos de experiência profissional, trabalho em uma exchange de criptomoedas brasileira e atuo como Programador/Tech lead.
 
 ---
 
